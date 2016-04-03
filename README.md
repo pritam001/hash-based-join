@@ -4,10 +4,15 @@
 ####Number of records that fit per page are floor of page size/ record size.
 relation1.txt
 20
+
 490
+
 70
+
 21
+
 32
+
 relation2.txt
 20
 70
